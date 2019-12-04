@@ -1,0 +1,11 @@
+Worked on it 
+
+•Filter Course List
+•Hide Empty Course List
+•Unsaved Changes Message
+•Enhance Validation
+•Handle 404 on Edit Course
+•Show # Courses in Header
+•Pagination
+•Sort Course Table
+•Revert Abandoned Changes
